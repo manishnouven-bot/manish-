@@ -1,0 +1,6 @@
+{
+  "name": "FrostPlow 3D: Cozy Winter Snowplow",
+  "description": "A cozy 3D isometric snow-plowing game. Clear town streets, driveways, and plazas, upgrade your truck, and enjoy a warm winter atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
